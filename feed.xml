@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Wed, 25 Aug 2021 03:07:52 +0000</lastBuildDate>
+        
+        <item>
+            <title>RESTEasy Reactive - To block or not to block</title>
+            <link>
+                https://quarkus.io/blog/resteasy-reactive-smart-dispatch/
+            </link>
+            <description>
+                In January 2021, the Quarkus team announced RESTEasy Reactive, a novel way to serve HTTP API in Quarkus. Since its introduction, RESTEasy Reactive adoption has been quite good, and we plan to make it the default approach to implement HTTP API shortly. But, wait a minute, what does that mean...
+            </description>
+            <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/resteasy-reactive-smart-dispatch/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Season 3 and 60th Insights episode</title>
+            <link>
+                https://quarkus.io/blog/60th-quarkus-insights/
+            </link>
+            <description>
+                After a summer break and little bit of COVID-19 delay, we will finally have the 60th(!) Quarkus Insights episode on Monday the 23rd August. For those who don&#8217;t know, Quarkus Insights is a (almost) weekly video/audio podcast where we host people from all parts of the Quarkiverse to sit down...
+            </description>
+            <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/60th-quarkus-insights/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.1.3.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-1-3-final-released/
+            </link>
+            <description>
+                We just released Quarkus 2.1.3.Final, our third maintenance release on top of 2.1. It is a safe upgrade for anyone already using 2.1. If you are not using 2.1 already, please refer to the 2.1 migration guide. Full changelog You can get the full changelog of 2.1.3.Final on GitHub. Come...
+            </description>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-1-3-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.1.2.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-1-2-final-released/
+            </link>
+            <description>
+                We just released Quarkus 2.1.2.Final, our second maintenance release on top of 2.1. It is a safe upgrade for anyone already using 2.1. If you are not using 2.1 already, please refer to the 2.1 migration guide. Full changelog You can get the full changelog of 2.1.2.Final on GitHub. Come...
+            </description>
+            <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-1-2-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.1.1.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-1-1-final-released/
+            </link>
+            <description>
+                We just released Quarkus 2.1.1.Final, our first maintenance release on top of 2.1. It is a safe upgrade for anyone already using 2.1.0.Final. If you are not using 2.1 already, please refer to the 2.1 migration guide. Full changelog You can get the full changelog of 2.1.1.Final on GitHub. Come...
+            </description>
+            <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-1-1-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Platforms and Streams: a new way to discover Quarkus extensions</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2x-platform-quarkiverse-registry/
+            </link>
+            <description>
+                Co-authored by Erin Schnabel As you may have seen from recent Quarkus Insights episodes (#48, #55 and #57, specifically), we&#8217;ve made a number of changes to our tools in the 2.x stream to improve the developer experience. When 2.0 was released, a few sharp-eyed Quarkus CLI users spotted some new...
+            </description>
+            <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2x-platform-quarkiverse-registry/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.1.0.Final released - Dev Service for Keycloak, Reactive SQL Server extension, Kotlin 1.5</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-1-0-final-released/
+            </link>
+            <description>
+                Today, we release Quarkus 2.1.0.Final which includes a lot of refinements and improvements and a couple of new features: Dev Service for Keycloak Reactive Microsoft SQL Server extension Upgrade to Kotlin 1.5 Migration Guide To migrate from 2.0, please refer to our migration guide. What&#8217;s new? Dev Service for Keycloak...
+            </description>
+            <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-1-0-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.3.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-3-final-released/
+            </link>
+            <description>
+                We just released Quarkus 2.0.3.Final with a new round of bugfixes and documentation improvements. It is a safe upgrade for anyone already using 2.0. If you are not using 2.0 already, please refer to the 2.0 migration guide. Full changelog You can get the full changelog of 2.0.3.Final on GitHub....
+            </description>
+            <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-3-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus Newsletter #10</title>
+            <link>
+                https://quarkus.io/blog/quarkus-newsletter-10/
+            </link>
+            <description>
+                Ok&#8230;&#8203; it&#8217;s been a while since our last newsletter but we&#8217;ve been busy working on a new format. We&#8217;re moved to an email subscription model starting with Issue #10. Our goal is to allow folks to sign up and get the cream of the crop articles delivered to their inbox...
+            </description>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-newsletter-10/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.2.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-2-final-released/
+            </link>
+            <description>
+                We just released Quarkus 2.0.2.Final because we like symmetry (and also because we had a couple of bugfixes to publish). It is a safe upgrade for anyone already using 2.0. If you are not using 2.0 already, please refer to the 2.0 migration guide. Full changelog You can get the...
+            </description>
+            <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-2-final-released/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
